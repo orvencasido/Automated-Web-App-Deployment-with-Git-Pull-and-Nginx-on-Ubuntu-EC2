@@ -113,6 +113,12 @@ $ curl http://<your-ip>
 - Hosting a static website or frontend from GitHub
 - Practicing reverse proxy configurations
 
+## 📚 Learning Outcomes
+- GitHub-based deployment using EC2
+- Nginx reverse proxy setup
+- Basic Linux file structure for web hosting
+- Practical Git usage in production
+
 ## 🧑‍💻 Author
 Orven Casido – techwithorven.xyz
 
